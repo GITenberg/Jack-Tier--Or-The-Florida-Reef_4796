@@ -1,0 +1,44 @@
+_repo: Jack-Tier--Or-The-Florida-Reef_4796
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Cooper, Fenimore
+    - Cooper, J. Fenimore (James Fenimore)
+    - Morgan, Jane
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "Jack Tier, or the Florida Reef is a novel by James Fenimore Cooper first\
+  \ published in 1848 by New York publisher Hurd and Houghton. Set during the Mexican-American\
+  \ war, the novel relates a twenty-year homosocial relationship verging on the homoerotic\
+  \ between a sailor and the captain of the boat. But by the end of the novel the\
+  \ sailor is the captain's wife, transforming the story into a story of heterosexual\
+  \ love and passion.\nThe novel was first published serially in a magazine under\
+  \ the title Rose Budd in 1846. When commenting on the novel in the context of other\
+  \ novels about the Mexican-American War, critic Jaime Javier Rodríguez describes\
+  \ the novel as \"an obscure work not always found in library stacks [thus it] remains\
+  \ largely unread but it too deserves attention.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4796'
+  wikidata: Q4865403
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+- !lcsh 'Mexican War, 1846-1848 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Florida -- Fiction'
+- GITenberg
+title: Jack Tier; Or, The Florida Reef
+url: http://www.gutenberg.org/ebooks/4796
+wikipedia:
+- https://en.wikipedia.org/wiki/Jack_Tier
